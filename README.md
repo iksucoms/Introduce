@@ -27,3 +27,8 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </div>
+
+
+# $${\color{red}Liverpool}$$
+<img src="https://img.shields.io/badge/premier league-360D3A?style=for-the-badge&logo=premierleague&logoColor=Red">
+
