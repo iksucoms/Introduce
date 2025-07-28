@@ -29,6 +29,4 @@
 </div>
 
 
-# $${\color{red}Liverpool}$$
-<img src="https://img.shields.io/badge/premier league-360D3A?style=for-the-badge&logo=premierleague&logoColor=Red">
 
